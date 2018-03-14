@@ -19,6 +19,7 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
+
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/creative/)
 * Install via npm: `npm i startbootstrap-creative`
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
@@ -36,12 +37,12 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 #### Gulp Tasks
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
+* `gulp` the default task that builds everything
+* `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+* `gulp sass` compiles SCSS files into CSS
+* `gulp minify-css` minifies the compiled CSS file
+* `gulp minify-js` minifies the themes JS file
+* `gulp copy` copies dependencies from node_modules to the vendor directory
 
 ## Bugs and Issues
 
@@ -69,3 +70,18 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+
+**Top section**
+Blurb about yourself - unique
+Something to make you stand out
+Button text
+
+**Secondary Section**
+Button text
+Careful with the product management stuff - good experience, but want to make it clear it’s not what’s next
+
+**Service Section**
+Actual content, or scrap
+
+**Category section**
+Good opportunity
