@@ -71,17 +71,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
 
-**Top section**
-Blurb about yourself - unique
-Something to make you stand out
-Button text
-
-**Secondary Section**
-Button text
-Careful with the product management stuff - good experience, but want to make it clear it’s not what’s next
-
-**Service Section**
-Actual content, or scrap
-
-**Category section**
-Good opportunity
